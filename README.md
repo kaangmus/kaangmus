@@ -2,7 +2,7 @@
 <h3 align="center">Saya Musliadi, saat ini saya berprofesi sebagai Backend Developer disalah satu perusahaan Yogyakarta, dalam pekerjaan saya menggunakan Laravel, NodeJS, InertiaJS, AlpineJs, Nuxjs dan NextJs. </h3>
 <br>
 <p align="left">
-Saya memiliki kemampuan membangun aplikasi berbasis web dari mulai perancangan sistem, perancangan interface dengan Figma, Slicing dengan Bootstsrap/Tailwindcss, mengembangkan sisi server dengan Laravel atau NodeJS hingga proses deploy dengan teknologi server tradisional maupun server teknologi modern  </p>
+Saya memiliki kemampuan membangun aplikasi berbasis web dari mulai perancangan sistem, perancangan interface dengan Figma, Slicing dengan Bootstsrap/Tailwindcss, mengembangkan sisi server dengan Laravel atau NodeJS, testing hingga proses deploy dengan teknologi server tradisional maupun server teknologi modern  </p>
 
 ### Pengalaman Kerja 
 
