@@ -6,11 +6,14 @@ Saya memiliki kemampuan membangun aplikasi berbasis web dari mulai perancangan s
 <br>
 <p align="left"> Pengalaman Kerja </p>
 - Magang di Erporate Solusi Global, salah satu perusahaan di jojga. Mengembangkan sistem Perekrutan Karyawan Tahun 2019
+
 - Magang di Museum Muhammadiyah Yogyakarta, mengembangkan web profile. Tahun 2019
+
 - Fulltime di Jogjacamp sebagai Backend Developer. Tahun 2019 hingga saat ini
 
 Beberap project client :
 - Pengembangan aplikasi elearning bernama Faculty
+
 - Mengembangan API untuk App AntarBang salah satu starup jasa antar barang.
 
 Penilitian :
