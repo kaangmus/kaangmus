@@ -19,6 +19,7 @@ Beberap project client :
 Penilitian :
 - Perancangan Distribusi Daging Qurban dengan Graph Database
 
+Aktivitas lainnya : 
 - 🌱 I’m currently learning **Golang**, **Best Practice**,  **Desain Pattern**
 
 - 👨‍💻 Artikel dan sharing pengetahuan [https://musliadi.net](https://musliadi.net)
