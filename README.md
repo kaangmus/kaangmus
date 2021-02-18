@@ -12,7 +12,7 @@ Saya memiliki kemampuan membangun aplikasi berbasis web dari mulai perancangan s
  
 - Membuat Web Agensi bersama temen kampus bernama Nggolek.net mengembangkan beberapa project (sistem manajemen pelaporan, sistem elearning Lazis Muhammadiyah Yogyakarta)
  
-- Fulltime di Jogjacamp sebagai Backend Developer Mengembangkan produk SaaS. Tahun 2019 hingga saat ini
+- Fulltime di PT. Jogjacamp sebagai Backend Developer Mengembangkan produk SaaS. Tahun 2019 hingga saat ini
 
 ### Beberap project client :
 - Pengembangan aplikasi elearning bernama Faculty
