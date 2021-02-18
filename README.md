@@ -37,4 +37,4 @@ Saya memiliki kemampuan membangun aplikasi berbasis web dari mulai perancangan s
 ----
 
 
-Last Edited on: 23/09/2020
+Last Edited on: 18/02/2021
