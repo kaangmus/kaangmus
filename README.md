@@ -9,13 +9,15 @@ Saya memiliki kemampuan membangun aplikasi berbasis web dari mulai perancangan s
 - Magang di Erporate Solusi Global, salah satu perusahaan di jojga. Mengembangkan sistem Perekrutan Karyawan Tahun 2019
 
 - Magang di Museum Muhammadiyah Yogyakarta, mengembangkan web profile. Tahun 2019
-
+ 
+- Membuat Web Agensi bersama temen kampug bernama Nggolek.net mengembangkan beberapa project (sistem manajemen pelaporan, sistem elearning Lazis Muhammadiyah Yogyakarta)
+ 
 - Fulltime di Jogjacamp sebagai Backend Developer Mengembangkan produk SaaS. Tahun 2019 hingga saat ini
 
 ### Beberap project client :
 - Pengembangan aplikasi elearning bernama Faculty
 
-- Mengembangan API untuk App AntarBang salah satu starup jasa antar barang.
+- Mengembangan API untuk App AntarBang salah satu startup jasa antar barang.
 
 ### Penilitian :
 - Perancangan Distribusi Daging Qurban dengan Graph Database
