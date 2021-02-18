@@ -10,7 +10,7 @@ Saya memiliki kemampuan membangun aplikasi berbasis web dari mulai perancangan s
 
 - Magang di Museum Muhammadiyah Yogyakarta, mengembangkan web profile. Tahun 2019
  
-- Membuat Web Agensi bersama temen kampug bernama Nggolek.net mengembangkan beberapa project (sistem manajemen pelaporan, sistem elearning Lazis Muhammadiyah Yogyakarta)
+- Membuat Web Agensi bersama temen kampus bernama Nggolek.net mengembangkan beberapa project (sistem manajemen pelaporan, sistem elearning Lazis Muhammadiyah Yogyakarta)
  
 - Fulltime di Jogjacamp sebagai Backend Developer Mengembangkan produk SaaS. Tahun 2019 hingga saat ini
 
