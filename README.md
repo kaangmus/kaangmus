@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Musliadi</h1>
-<h3 align="center">Saya Musliadi, saat ini saya berprofesi sebagai Backend Developer disalah satu perusahaan Yogyakarta, dalam pekerjaan saya menggunakan Laravel, Nuxjs dan NextJs </h3>
+<h3 align="center">Saya Musliadi, saat ini saya berprofesi sebagai Backend Developer disalah satu perusahaan Yogyakarta, dalam pekerjaan saya menggunakan Laravel, NodeJS, Nuxjs dan NextJs </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msmusli" alt="msmusli" /> </p>
 
