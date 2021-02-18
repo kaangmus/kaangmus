@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Musliadi</h1>
-<h3 align="center">Saya Musliadi, saat ini saya berprofesi sebagai Backend Developer disalah satu perusahaan Yogyakarta, dalam pekerjaan saya menggunakan Laravel, NodeJS, Nuxjs dan NextJs </h3>
+<h3 align="center">Saya Musliadi, saat ini saya berprofesi sebagai Backend Developer disalah satu perusahaan Yogyakarta, dalam pekerjaan saya menggunakan Laravel, NodeJS, InertiaJS, AlpineJs, Nuxjs dan NextJs. 
+<br>
+ Saya memiliki kemampuan membangun aplikasi berbasis web dari mulai perancangan perancangan sistem, perancangan interface dengan Figma, Slicing dengan Bootstsrap/Tailwindcss, mengembangkan sisi server dengan Laravel atau NodeJS hingga proses deploy dengan teknologi server tradisional maupun server teknologi modern  </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msmusli" alt="msmusli" /> </p>
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **Golang**, **Best Practice**,  **Desain Pattern**
 
 - 👨‍💻 Artikel dan sharing pengetahuan [https://musliadi.net](https://musliadi.net)
 
