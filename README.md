@@ -5,7 +5,7 @@
 Saya memiliki kemampuan membangun aplikasi berbasis web dari mulai perancangan sistem, perancangan interface dengan Figma, Slicing dengan Bootstsrap/Tailwindcss, mengembangkan sisi server dengan Laravel atau NodeJS hingga proses deploy dengan teknologi server tradisional maupun server teknologi modern  </p>
 <br>
 
-<p align="left"> Pengalaman Kerja </p>
+### Pengalaman Kerja 
 
 - Magang di Erporate Solusi Global, salah satu perusahaan di jojga. Mengembangkan sistem Perekrutan Karyawan Tahun 2019
 
@@ -13,15 +13,15 @@ Saya memiliki kemampuan membangun aplikasi berbasis web dari mulai perancangan s
 
 - Fulltime di Jogjacamp sebagai Backend Developer. Tahun 2019 hingga saat ini
 
-Beberap project client :
+### Beberap project client :
 - Pengembangan aplikasi elearning bernama Faculty
 
 - Mengembangan API untuk App AntarBang salah satu starup jasa antar barang.
 
-Penilitian :
+### Penilitian :
 - Perancangan Distribusi Daging Qurban dengan Graph Database
 
-Aktivitas lainnya : 
+### Aktivitas lainnya : 
 - 🌱 I’m currently learning **Golang**, **Best Practice**,  **Desain Pattern**
 
 - 👨‍💻 Artikel dan sharing pengetahuan [https://musliadi.net](https://musliadi.net)
@@ -30,8 +30,6 @@ Aktivitas lainnya :
 
 - [![YouTube Badge](https://img.shields.io/badge/-@Musliadi-c4302b?style=flat-square&labelColor=c4302b&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC9Ob26gpVr6g6re1rYlpKfg)](https://www.youtube.com/channel/UC9Ob26gpVr6g6re1rYlpKfg)
 
-
-### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
