@@ -3,7 +3,6 @@
 <br>
 <p align="left">
 Saya memiliki kemampuan membangun aplikasi berbasis web dari mulai perancangan sistem, perancangan interface dengan Figma, Slicing dengan Bootstsrap/Tailwindcss, mengembangkan sisi server dengan Laravel atau NodeJS hingga proses deploy dengan teknologi server tradisional maupun server teknologi modern  </p>
-<br>
 
 ### Pengalaman Kerja 
 
