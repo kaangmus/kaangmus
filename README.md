@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Musliadi</h1>
 <h3 align="center">Saya Musliadi, saat ini saya berprofesi sebagai Backend Developer disalah satu perusahaan Yogyakarta, dalam pekerjaan saya menggunakan Laravel, Nuxjs dan NextJs </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilgkrishnan" alt="akhilgkrishnan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=msmusli" alt="msmusli" /> </p>
 
 - 🌱 I’m currently learning **Golang**
 
@@ -9,12 +9,12 @@
 
 - 📫 How to reach me **musliadi.dev@gmail.com**
 
-[![YouTube Badge](https://img.shields.io/badge/-@Dhruv%20Jain-c4302b?style=flat-square&labelColor=c4302b&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC9Ob26gpVr6g6re1rYlpKfg)](https://www.youtube.com/channel/UC9Ob26gpVr6g6re1rYlpKfg)
+- [![YouTube Badge](https://img.shields.io/badge/-@Dhruv%20Jain-c4302b?style=flat-square&labelColor=c4302b&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC9Ob26gpVr6g6re1rYlpKfg)](https://www.youtube.com/channel/UC9Ob26gpVr6g6re1rYlpKfg)
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=msmusli&show_icons=true" alt="musliadi" /></p>
 
