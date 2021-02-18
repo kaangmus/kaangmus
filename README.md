@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **musliadi.dev@gmail.com**
 
-- [![YouTube Badge](https://img.shields.io/badge/-@Dhruv%20Jain-c4302b?style=flat-square&labelColor=c4302b&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC9Ob26gpVr6g6re1rYlpKfg)](https://www.youtube.com/channel/UC9Ob26gpVr6g6re1rYlpKfg)
+- [![YouTube Badge](https://img.shields.io/badge/-@Musliadi-c4302b?style=flat-square&labelColor=c4302b&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC9Ob26gpVr6g6re1rYlpKfg)](https://www.youtube.com/channel/UC9Ob26gpVr6g6re1rYlpKfg)
 
 
 ### Blogs posts
