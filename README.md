@@ -3,8 +3,18 @@
 <br>
 <p align="left">
 Saya memiliki kemampuan membangun aplikasi berbasis web dari mulai perancangan sistem, perancangan interface dengan Figma, Slicing dengan Bootstsrap/Tailwindcss, mengembangkan sisi server dengan Laravel atau NodeJS hingga proses deploy dengan teknologi server tradisional maupun server teknologi modern  </p>
+<br>
+<p align="left"> Pengalaman Kerja </p>
+- Magang di Erporate Solusi Global, salah satu perusahaan di jojga. Mengembangkan sistem Perekrutan Karyawan Tahun 2019
+- Magang di Museum Muhammadiyah Yogyakarta, mengembangkan web profile. Tahun 2019
+- Fulltime di Jogjacamp sebagai Backend Developer. Tahun 2019 hingga saat ini
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=msmusli" alt="msmusli" /> </p>
+Beberap project client :
+- Pengembangan aplikasi elearning bernama Faculty
+- Mengembangan API untuk App AntarBang salah satu starup jasa antar barang.
+
+Penilitian :
+- Perancangan Distribusi Daging Qurban dengan Graph Database
 
 - 🌱 I’m currently learning **Golang**, **Best Practice**,  **Desain Pattern**
 
