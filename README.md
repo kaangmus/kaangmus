@@ -10,7 +10,7 @@ Saya memiliki kemampuan membangun aplikasi berbasis web dari mulai perancangan s
 
 - Magang di Museum Muhammadiyah Yogyakarta, mengembangkan web profile. Tahun 2019
 
-- Fulltime di Jogjacamp sebagai Backend Developer. Tahun 2019 hingga saat ini
+- Fulltime di Jogjacamp sebagai Backend Developer Mengembangkan produk SaaS. Tahun 2019 hingga saat ini
 
 ### Beberap project client :
 - Pengembangan aplikasi elearning bernama Faculty
