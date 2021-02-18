@@ -4,7 +4,9 @@
 <p align="left">
 Saya memiliki kemampuan membangun aplikasi berbasis web dari mulai perancangan sistem, perancangan interface dengan Figma, Slicing dengan Bootstsrap/Tailwindcss, mengembangkan sisi server dengan Laravel atau NodeJS hingga proses deploy dengan teknologi server tradisional maupun server teknologi modern  </p>
 <br>
+
 <p align="left"> Pengalaman Kerja </p>
+
 - Magang di Erporate Solusi Global, salah satu perusahaan di jojga. Mengembangkan sistem Perekrutan Karyawan Tahun 2019
 
 - Magang di Museum Muhammadiyah Yogyakarta, mengembangkan web profile. Tahun 2019
